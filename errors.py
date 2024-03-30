@@ -16,4 +16,3 @@ def input_error(func):
             return "Incorrect value."
         
     return inner
-

@@ -84,3 +84,4 @@ def show_birthday(args, book):
 def upcoming_birthdays(book):
 
     return book.get_upcoming_birthdays()
+

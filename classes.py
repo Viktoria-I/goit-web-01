@@ -157,7 +157,6 @@ class View(ABC):
     def get_command_list_output(self):
         pass
 
-
 class ConsoleView(View):
     def get_contacts_output(self):
         output = []
